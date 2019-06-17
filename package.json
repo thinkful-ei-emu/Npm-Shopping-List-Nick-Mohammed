@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-emu/shopping-list-starter/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-emu/shopping-list-starter#readme"
+  "homepage": "https://github.com/thinkful-ei-emu/shopping-list-starter#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }

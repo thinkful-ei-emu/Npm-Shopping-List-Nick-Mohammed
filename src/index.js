@@ -1,4 +1,9 @@
-'use strict';
+import 'normalize.css';
+import $ from 'jquery';
+import api from './api';
+import './index.css';
+import shoppingList from './shopping-list';
+import store from './store';
 /* global shoppingList, store, api */
 
 $(document).ready(function() {
